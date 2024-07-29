@@ -1,0 +1,5 @@
+params:
+  chi: 160
+
+optimize:
+  maxiter: 100

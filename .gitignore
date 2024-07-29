@@ -1,0 +1,6 @@
+outputs/**
+**/__pycache__
+data/**
+multirun/**
+docs/**
+.pytest_cache/**
