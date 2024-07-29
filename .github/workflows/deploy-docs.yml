@@ -3,7 +3,7 @@ name: Deploy Docs
 on:
   push:
     branches:
-      - main  # 触发部署的分支
+      - main
 
 jobs:
   deploy:
