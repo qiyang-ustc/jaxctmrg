@@ -1,20 +1,20 @@
 # jaxctmrg
 
-[![PyPI - Version](https://img.shields.io/pypi/v/jaxctmrg.svg)](https://pypi.org/project/jaxctmrg)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/jaxctmrg.svg)](https://pypi.org/project/jaxctmrg)
+<!-- [![PyPI - Version](https://img.shields.io/pypi/v/jaxctmrg.svg)](https://pypi.org/project/jaxctmrg) -->
+<!-- [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/jaxctmrg.svg)](https://pypi.org/project/jaxctmrg) -->
 
 -----
 
 **Table of Contents**
 
-- [Installation](#installation)
-- [License](#license)
+<!-- - [Installation](#installation)
+- [License](#license) -->
 
 ## Installation
 
-```console
+<!-- ```console
 pip install jaxctmrg
-```
+``` -->
 
 ## License
 
