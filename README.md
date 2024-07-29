@@ -1,6 +1,8 @@
 # jaxctmrg
 
-[Documentation](https://qiyang-ustc.github.io/jaxctmrg/)
+## Documentation
+
+We host documentation on [Github Pages](https://qiyang-ustc.github.io/jaxctmrg/).
 
 -----
 
