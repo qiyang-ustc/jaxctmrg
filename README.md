@@ -1,7 +1,6 @@
 # jaxctmrg
 
-<!-- [![PyPI - Version](https://img.shields.io/pypi/v/jaxctmrg.svg)](https://pypi.org/project/jaxctmrg) -->
-<!-- [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/jaxctmrg.svg)](https://pypi.org/project/jaxctmrg) -->
+[Documentation](https://qiyang-ustc.github.io/jaxctmrg/)
 
 -----
 
